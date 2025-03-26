@@ -2,30 +2,44 @@
 
 
 A Flutter application with login authentication, product listing from an API, search functionality, and detailed product pages using Provider for state management.
+
+
 📌 Features
 
 ✔ Login Screen
-    *Hardcoded authentication (admin/admin@123)
-    *Input validation with error handling
+
+    Hardcoded authentication (admin/admin@123)
+
+    Input validation with error handling
 
 ✔ Home Screen (Product List)
-    *Fetches product data from DummyJSON API
-    *Displays product image, title
-    *Search bar to filter products dynamically
+
+    Fetches product data from DummyJSON API
+
+    Displays product image, title
+
+    Search bar to filter products dynamically
 
 ✔ Product Details Screen
-    *Displays full product information (image, title, description, price, discount, rating, stock, brand)
+
+    Displays full product information (image, title, description, price, discount, rating, stock, brand)
 
 ✔ State Management
-    *Implemented using Provider
+
+    Implemented using Provider
 
 ✔ Navigation & UI
-    *Responsive UI with smooth navigation
-    *Uses Flutter's Material Design
+
+    Responsive UI with smooth navigation
+
+    Uses Flutter's Material Design
 
 🛠️ Technologies Used
+
     Flutter (Dart)
+
     Provider (State Management)
+
     HTTP (API Requests)
 
 📸 Screenshots
