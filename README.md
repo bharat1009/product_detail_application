@@ -45,12 +45,15 @@ A Flutter application with login authentication, product listing from an API, se
 
 
 
+
+
 ⚡ Getting Started
+
+
 1️⃣ Clone the Repository
-
 git clone  https://github.com/bharat1009/product_detail_application
-
 cd product_details_app
+
 
 2️⃣ Install Dependencies
 flutter pub get
