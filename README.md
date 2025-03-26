@@ -30,9 +30,18 @@ A Flutter application with login authentication, product listing from an API, se
 
 📸 Screenshots
 
-🔹 Login Screen ![product](https://github.com/user-attachments/assets/c83c30ba-3c42-4576-a217-9709992b5073)
-🔹 Home Screen with Search ![login](https://github.com/user-attachments/assets/814621eb-3dfb-4ba5-82a2-95f5ae88b4a8)
-🔹 Product Details Screen ![home](https://github.com/user-attachments/assets/5fca443e-87af-4dfa-a4d8-ca614c031ea8)
+🔹 Login Screen 
+![login](https://github.com/user-attachments/assets/afed846f-911f-4b3b-bf15-ef759d159f2a)
+
+
+🔹 Home Screen with Search 
+![home](https://github.com/user-attachments/assets/99c95c65-599c-4171-a120-a08332a536c8)
+
+
+🔹 Product Details Screen 
+![product](https://github.com/user-attachments/assets/dd24f551-9fee-4f41-8828-47e439d60e5d)
+
+
 
 
 
